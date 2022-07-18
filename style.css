@@ -1,3 +1,13 @@
-title{
-    color: blanchedalmond;
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+h{
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+    
 }
